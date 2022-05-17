@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="getDocument" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="getRequestInfo" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="printDocument" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="66" max="-2" attributes="0"/>
+                                          <Component id="setMoney" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                                          <Component id="setName" min="-2" max="-2" attributes="0"/>
+                                          <Component id="getCredit" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="printAll" min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="getRequestState" min="-2" max="-2" attributes="0"/>
+                                          <Component id="uploadDocument" min="-2" max="-2" attributes="0"/>
+                                          <Component id="setEmail" min="-2" max="-2" attributes="0"/>
+                                          <Component id="getName" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Component id="logOut" alignment="0" min="-2" pref="181" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="89" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="getMoney" min="-2" max="-2" attributes="0"/>
+                          <Component id="makeRequest" min="-2" max="-2" attributes="0"/>
+                          <Component id="setCredit" min="-2" max="-2" attributes="0"/>
+                          <Component id="getEmail" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="updatePassword" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                              <Component id="assignTask" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="searchUser" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="approvePrintingRequest" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="disapprovePrintingRequest" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                              <Component id="setId" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+              <Component id="addUser" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+              <Component id="deleteUser" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                      <Component id="logOut" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="deleteUser" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="addUser" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="searchUser" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="assignTask" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="updatePassword" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="printAll" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="setId" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="disapprovePrintingRequest" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="approvePrintingRequest" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="getEmail" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="setName" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="getName" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="setCredit" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="getCredit" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="setEmail" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="makeRequest" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="getDocument" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="uploadDocument" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="getMoney" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="getRequestInfo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="getRequestState" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="printDocument" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="setMoney" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="43" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="setCredit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="setCredit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="setCreditActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="getCredit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="getCredit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="getCreditActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="setEmail">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="setEmail"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="setEmailActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="makeRequest">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="makeRequest"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="makeRequestActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="getDocument">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="getDocument"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="getDocumentActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="uploadDocument">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="uploadDoc"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="uploadDocumentActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="getMoney">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="getMoney"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="getMoneyActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="getRequestInfo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="getRequestInfo"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="getRequestInfoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="getRequestState">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="getRequestState"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="getRequestStateActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="printDocument">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="printDocument"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="printDocumentActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="setMoney">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="setMoney"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="setMoneyActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="logOut">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="LOG OUT"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="logOutActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="getEmail">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="getEmail"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="getEmailActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="setName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="setName"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="setNameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="deleteUser">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="deleteUser"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="deleteUserActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="getName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="getName"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="getNameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="searchUser">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="searchUser"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="searchUserActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="printAll">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="printAll"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="printAllActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="updatePassword">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="updatePassword"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="updatePasswordActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="assignTask">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="assignTask"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="assignTaskActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="addUser">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="addUser"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="addUserActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="setId">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="setId"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="setIdActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="disapprovePrintingRequest">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="disapprovePrintingRequest"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="disapprovePrintingRequestActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="approvePrintingRequest">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="approvePrintingRequest"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="approvePrintingRequestActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
